@@ -7,3 +7,6 @@ vega
 pywwt
 mpl-scatter-density
 notebook
+PyYAML
+h5py
+astroquery==0.3.10.dev5703
